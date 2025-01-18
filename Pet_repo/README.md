@@ -2,6 +2,7 @@ Pet Adoptions App
 
 🐾 About the Project
 
+The Pet Adoptions App is a full work-in-progress cloud application development project. It is being built to leverage modern cloud technologies while streamlining the pet adoption process.
 The Pet Adoptions App is a user-friendly platform designed to connect pet lovers with adoptable pets. Users can browse available pets, learn about their characteristics, and apply for adoption through a seamless process.
 
 🚀 Features
