@@ -1,14 +1,31 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+Pet Adoptions App
 
+🐾 About the Project
 
-Hi there! Welcome to AWS Cloud9!
+The Pet Adoptions App is a user-friendly platform designed to connect pet lovers with adoptable pets. Users can browse available pets, learn about their characteristics, and apply for adoption through a seamless process.
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+🚀 Features
 
-Happy coding!
+🐶 Browse adoptable pets with images and details
+
+🏡 Apply for pet adoption online
+
+📝 Manage adoption applications
+
+🔍 Search pets by species
+
+📦 Tech Stack
+
+Frontend: HTML, CSS, JavaScript (React)
+
+Backend: Django (Python)
+
+Database: DynamoDB
+
+Hosting: AWS (S3 for a static hosting site, DynamoDB for database)
+
+Infrastructure as Code: AWS SAM (Serverless Application Model), CloudFormation
+
+🤝 Project from AWS Cloud Institute
+
+🚀 Happy pet adopting! 🐾
